@@ -16,6 +16,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-[![GitHub contributors](https://img.shields.io/github/contributors/fal3n-4ngel/Love-Calculator-Flutter)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
