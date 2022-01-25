@@ -18,4 +18,4 @@ The same old Love Calculator ,but in flutter
 
 ## Screenshots
 
-<img align ="left" src ="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v1.0.1/image/Screenshot_1643088494.png" width = "400" height ="900" />
+<img align ="left" src ="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v1.0.1/image/Scr1.png" />
