@@ -17,4 +17,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fal3n-4ngel/Love-Calculator&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
