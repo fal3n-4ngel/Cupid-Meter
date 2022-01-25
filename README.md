@@ -1,6 +1,6 @@
 # Love Calculator
 
-
+<img align="left" src="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v1.0.1/image/2.jpg" width="300" height="345" />
 The same old Love Calculator ,but in flutter
 
 
