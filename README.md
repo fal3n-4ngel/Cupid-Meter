@@ -1,6 +1,6 @@
 # Love Calculator
 
-<img align="left" src="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v1.0.1/image/2.jpg" width="300" height="300" />
+<img align="left" src="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v1.0.1/image/2.jpg" width="400" height="400" />
 The same old Love Calculator ,but in flutter
 
 
@@ -9,6 +9,7 @@ The same old Love Calculator ,but in flutter
 ## Stats
 ### Languages Used
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ### IDE's Used
 
