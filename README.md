@@ -4,7 +4,7 @@
 The same old Love Calculator ,but in flutter
 
 ```
-### v1.2.2
+###v1.2.2
   -Added new bg Image 
   -Changed the theme a little 
   -Changed the code structure 
