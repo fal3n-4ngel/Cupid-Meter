@@ -21,4 +21,4 @@ The same old Love Calculator ,but in flutter
 
 ## Screenshots
 
-<img align ="left" src ="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v1.0.4/image/ss.png" width="300" height="300" />
+<img align ="left" src ="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v1.2.2/image/ss.png" width="300" height="300" />
