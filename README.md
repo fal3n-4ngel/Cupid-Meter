@@ -5,7 +5,9 @@ The same old Love Calculator ,but in flutter
 
 ```markdown
 ### v2.1.2
-  -See For Yourselves
+  - Changed The whole code base
+  - Added new containers and Boxdecorations
+  - Added new func to create new colors
 ```
 
 ## Stats
