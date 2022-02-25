@@ -27,3 +27,7 @@ The same old Love Calculator ,but in flutter
 
 <img align ="left" src ="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v2.1.2/scr/1.png" width="350" height="350" />
 <img align ="left" src ="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v2.1.2/scr/2.png" width="350" height="350" />
+
+## Contributers
+1. Adithya Krishnan. fal3n-4ngel(https://github.com/fal3n-4ngel/)
+2. Cirus Lab. CIRUS-LAB(https://github.com/CIRUS-LAB)
