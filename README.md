@@ -30,5 +30,5 @@ The same old Love Calculator ,but in flutter
 
 ## Contributers
 
-1. Adithya Krishnan. [fal3n-4ngel](https://github.com/fal3n-4ngel/)
-2. Cirus Lab. [CIRUS-LAB](https://github.com/CIRUS-LAB)
+ 1. Adithya Krishnan. [fal3n-4ngel](https://github.com/fal3n-4ngel/)
+ 2. Cirus Lab. [CIRUS-LAB](https://github.com/CIRUS-LAB)
