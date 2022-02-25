@@ -3,14 +3,14 @@
 <img align="left" src="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v2.1.2/image/2.jpg" width="400" height="380" />
 The same old Love Calculator ,but in flutter
 
+## Stats
+
 ```markdown
 ### v2.1.2
   - Changed The whole code base
   - Added new containers and Boxdecorations
   - Added new func to create new colors
 ```
-
-## Stats
 ### Languages Used
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
