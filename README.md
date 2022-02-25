@@ -1,16 +1,26 @@
-# cupid
+# Cupid Meter (v2.1.2)
 
-A new Flutter project.
+<img align="left" src="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v2.1.2/image/2.jpg" width="400" height="380" />
+The same old Love Calculator ,but in flutter
 
-## Getting Started
+```markdown
+### v2.1.2
+  -See For Yourselves
 
-This project is a starting point for a Flutter application.
+## Stats
+### Languages Used
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### IDE's Used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
+
+
+## Pictures
+
+<img align ="left" src ="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v1.2.2/scr/1.png" width="300" height="300" />
+<img align ="left" src ="https://github.com/fal3n-4ngel/Love-Calculator-Flutter/blob/v1.2.2/scr/2.png" width="300" height="300" />
