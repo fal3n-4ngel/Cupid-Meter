@@ -13,7 +13,6 @@ class _MyHomePage extends State<reportui> {
   double wid = 350;
   double hig = 580;
   @override
-  String user = 'user';
   int _index = 0;
   int _selectedIndex = 0;
   static const TextStyle optionStyle =
