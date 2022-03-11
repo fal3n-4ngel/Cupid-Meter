@@ -10,6 +10,10 @@ The same old Love Calculator ,but in flutter
   - Changed The whole code base
   - Added new containers and Boxdecorations
   - Added new func to create new colors
+### v2.1.3 
+Features we are gonna try
+ - Use figma...
+ - Hoping it might bring some great UI changes.
 ```
 ### Languages Used
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
